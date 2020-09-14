@@ -1,0 +1,1037 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700');
+
+
+.c01howtoreadradar {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 830px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(244, 244, 244, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.c01howtoreadradar .divider {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 739px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 702px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .comunicazione {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 699px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .comunicazione .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .comunicazione .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .comunicazione .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 4px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .comunicazione .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 5px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .comunicazione .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .comunicazione .shape4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 4px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 683px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider1 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .collaborazione {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 643px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .oval3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 5px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 2px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .shape4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 6px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .shape5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 6px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .collaborazione .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider2 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 627px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider2 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 590px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .focus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 588px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .focus .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .focus .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 10px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .focus .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .focus .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .focus .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .focus .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider3 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 571px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider3 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 534px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .destrezzadigitale {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 532px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .destrezzadigitale .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .destrezzadigitale .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 11px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .destrezzadigitale .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 7px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .destrezzadigitale .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 1px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider4 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 515px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider4 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .problemsolving {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .problemsolving .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .problemsolving .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .problemsolving .group .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .problemsolving .group .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 4px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 426px;
+  height              : auto;
+  width               : 344px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.22px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .divider5 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 381px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider5 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 329px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .rectangle {
+  background-color    : rgba(204, 49, 255, 1.0);
+  top                 : 335px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(45deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider6 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 316px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider6 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : 8px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(-180deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider7 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 211px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider7 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider8 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 146px;
+  height              : 1px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider8 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 303px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .content9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.15px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .rectanglecopy61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : 8px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.2;
+}
+.c01howtoreadradar .divider9 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 55px;
+  height              : 1px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .divider9 .surface {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 375px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.c01howtoreadradar .title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 231px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.3px;
+  line-height         : 20.0px;
+}
+.c01howtoreadradar .back {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
